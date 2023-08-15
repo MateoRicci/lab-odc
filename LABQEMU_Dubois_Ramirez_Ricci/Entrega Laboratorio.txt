@@ -1,0 +1,16 @@
+Integrantes del grupo:
+	- Nombre: Ignacio Augusto Ramírez
+	  Legajo: 39933566
+
+	- Nombre: Joaquín Dubois 
+	  Legajo: 44828964
+
+	- Nombre: Mateo Ricci Villarruel
+	  Legajo: 44975617
+
+
+Descripción Ejercicios:
+
+ . Ejercicio 1: El ejercicio consiste en un fondo nocturno sobre el mar, una balsa flotando sobre él, con su bandera, de fondo se visualiza la luna, las estrellas y unas nubes. La balsa se mueve presionando las teclas a y d.
+
+ . Ejercicio 2: El ejercicio reutiliza la escena anterior, pero ahora la balsa se mueve en 4 direcciones, las nubes están animadas y su movimiento es de derecha a izquierda, además, es posible mover la posición de la luna
